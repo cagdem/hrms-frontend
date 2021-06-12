@@ -1,5 +1,9 @@
 # Getting Started with Create React App
 
+UML Component Diagram
+![hrms](https://user-images.githubusercontent.com/15106912/121789940-0eb9bb80-cbe3-11eb-829f-4af3ec40d1bc.png)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
