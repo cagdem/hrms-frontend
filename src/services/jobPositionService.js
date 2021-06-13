@@ -4,6 +4,7 @@ export default class JobPositionService{
     getJobPositions(){
         return axios.get("http://localhost:8080/api/jobpositions/getall")
     }
+
     postJobPositions(positionName){
         return axios.post("http://localhost:8080/api/jobpositions/add",{
             positionName: positionName
